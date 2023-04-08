@@ -8,6 +8,7 @@ This Streamlit (platform's name) application uses Pandas Profiling (Python packa
 <img src="Assets/DA_Auto_App.gif" width="80%">
 
 ### WARNING: DUE TO MEMORY-RELATED ISSUES FROM STREAMLIT CLOUD PLATFORM - THE APP DOESN'T WORK ON MOBILE DEVICES
+<b>Click the following link to open the App:</b> https://juan-moctezuma-automation-da.streamlit.app/
 
 1. Python 3.8 Requirements for Web / Data Analysis App:
    * pandas==1.5.3

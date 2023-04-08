@@ -17,7 +17,7 @@ This Streamlit (platform's name) application uses Pandas Profiling (Python packa
    * ydata_profiling==4.1.2
    
 2. Knowledge required for the completion of this project: 
-   * Data Analysis
+   * Applied Mathematics & Statistics associated Data Analysis
    * Python Programming using Jupyter Notebooks & Visual Studio Code
    * Shell Scripting Programming (for dependencies' installation and Python downgrading)
    * Web Development & Application Deployment

@@ -21,7 +21,7 @@ with col2:
 st.markdown("This application allows you and/or your organization to automatically analyze " + 
             "your data based on numerical and categorical information. " + 
             "The output from this product allows for further data exploration, " +
-            "maximize insights, extract essential variables, detect outliers and/or anomalies. " + 
+            "maximized insights, extracting essential variables, detecting outliers and/or anomalies. " + 
             "This tool (built with Pandas-Profiling package) can find out missing values, " + 
             "duplicated rows, No. of columns , No. of rows, shape of data, size of data & statistical " +
             "information (such as correlation). Please note that your dataset must have CSV format. " + 

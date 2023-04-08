@@ -2,7 +2,7 @@
 
 
 ### Technical Description in Non-Technical Terms
-This Streamlit (platform's name) application uses Pandas Profiling (Python package) to automatically perform a general data analysis of any uploaded CSV, and then compile an interactive report, which is available for download (in HTML format) at the bottom of the page.
+This Streamlit (platform's name) application uses Pandas Profiling (Python package) to automatically perform a general data analysis of any uploaded CSV, and then compile an interactive report, which is available for download (in HTML format) at the bottom of the app's page after the report gets displayed.
 
 ### Presentation GIF
 <img src="Assets/DA_Auto_App.gif" width="80%">
